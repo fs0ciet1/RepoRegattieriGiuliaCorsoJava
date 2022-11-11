@@ -42,13 +42,6 @@ class ProvaRepository
 
 
         //condizioni per stampare EVVIVA
-        System.out.println(ToF1 == !(ToF2));
-
-
-
-
-         
-        
-        
+        System.out.print("EVVIVAAA");  
     }
 }
