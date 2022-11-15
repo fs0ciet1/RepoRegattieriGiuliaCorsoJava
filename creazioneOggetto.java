@@ -9,8 +9,7 @@ class creazioneOggetto
         System.out. println ("Metti il tuo Nick: ");
 
         String nome=Myobj.nextLine(); //read user input di tipo stringa
-        System.out.println();
-        System.out.println("Il tuo Nick è" + nome); //output per user input
+        System.out.println("Il tuo Nick è " + nome); //output per user input
 
         
 
