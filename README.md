@@ -12,3 +12,6 @@
 
 15/11/2022 ----> "CreazioneOggetto" -Regattieri Giulia
 
+19/11/2022 ----> "EsercizioArray1" -Regattieri Giulia
+
+19/11/2022 ----> "EsercizioComplessivo" -Regattieri Giulia
